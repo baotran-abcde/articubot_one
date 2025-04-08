@@ -4,7 +4,7 @@
   <name>my_bot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="my_email@email.com">MY NAME</maintainer>
+  <maintainer email="baotran.31231021530@st.ueh.edu.vn">Tran_Bao</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
